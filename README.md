@@ -1,6 +1,6 @@
-# Documentation légale - Légis QC
+# Documentation légale - Légis Québec
 
-Cette documentation répond aux exigences de conformité pour l'application Légis QC.
+Cette documentation répond aux exigences de conformité pour l'application Légis Québec.
 
 ## Documents disponibles
 

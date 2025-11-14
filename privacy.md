@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-**Légis QC** - Cotechnoe inc.  
+**Légis Québec** - Cotechnoe inc.  
 Dernière mise à jour : 14 novembre 2025
 
 ## 1. Collecte

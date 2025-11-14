@@ -1,11 +1,11 @@
 # Conditions d'utilisation
 
-**Légis QC** - Cotechnoe inc.  
+**Légis Québec** - Cotechnoe inc.  
 Dernière mise à jour : 14 novembre 2025
 
 ## 1. Service
 
-Légis QC fournit des informations sur les lois du Québec via intelligence artificielle.
+Légis Québec fournit des informations sur les lois du Québec via intelligence artificielle.
 
 **IMPORTANT** : Les réponses sont informatives uniquement. Ce n'est pas un avis juridique. Consultez un avocat pour votre situation.
 
@@ -24,7 +24,7 @@ Ne pas :
 
 ## 4. Propriété intellectuelle
 
-Légis QC appartient à Cotechnoe inc. Licence d'utilisation non transférable.
+Légis Québec appartient à Cotechnoe inc. Licence d'utilisation non transférable.
 
 ## 5. Limitation de responsabilité
 
