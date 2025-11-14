@@ -30,7 +30,7 @@ Utilisez les commandes prédéfinies pour explorer rapidement :
 ## ❓ Questions fréquentes
 
 ### Puis-je utiliser l'application en anglais?
-L'application est conçue pour fonctionner en français uniquement, car elle traite du droit québécois. Bien que techniquement il soit possible de poser des questions en anglais, l'application n'a pas été testée dans cette langue et nous n'offrons aucune garantie quant à la qualité ou à l'exactitude des réponses en anglais.
+L'application est conçue et optimisée pour fonctionner en français uniquement. Bien que techniquement il soit possible de poser des questions en anglais, l'application n'a pas été testée dans cette langue et nous n'offrons aucune garantie quant à la qualité ou à l'exactitude des réponses en anglais.
 
 ### Les réponses sont-elles des avis juridiques?
 Non. Les réponses sont informatives. Consultez un avocat pour un avis juridique.
